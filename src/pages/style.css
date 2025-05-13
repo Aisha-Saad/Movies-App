@@ -1,0 +1,55 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  padding: 15px;
+  /* background-color: aquamarine; */
+  
+}
+
+
+.navbar-main .text{
+  padding: 10px;
+  font-size: 30px;
+  font-weight: 800;
+  
+}
+
+.navbar-sub{
+  display: flex;
+  gap: 2rem;
+
+  
+}
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 80%;
+  height: auto;
+}
+.home{
+  width: 100%;
+  height: 80vh;
+  background-color: rgba(148, 79, 153, 0.623);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+.home form input{
+  
+  background-color: aliceblue;
+  padding: 7px;
+  color: black;
+  border-radius: 7px;
+  gap: 2rem;
+  
+}
+
+.home form button {
+  color: black;
+}

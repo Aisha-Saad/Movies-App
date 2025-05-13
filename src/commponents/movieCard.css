@@ -1,0 +1,29 @@
+.main{
+  width:100% ;
+    text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.movie-card{
+  width: 70%;
+
+
+
+  
+  background-color: rgba(45, 45, 45, 0.31);
+}
+
+.movie-poster{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 60px;
+}
+
+/* .movie-overlay{
+  display: block;
+  justify-content: end;
+} */
+
